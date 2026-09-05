@@ -30,3 +30,6 @@ node_modules/
 # Build outputs
 dist/
 build/
+node_modules/
+.env
+.env.local
